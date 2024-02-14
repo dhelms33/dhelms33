@@ -8,7 +8,7 @@ I specialize in frontend development and have a keen interest in creating user-f
 
 ## 🛠️ Tech Stack
 
-- **Languages:** HTML, Python, JavaScript, Kotlin
+- **Languages:** HTML, Python, JavaScript, Kotlin, Ruby
 - **Frameworks:** RubyonRails
 - **Tools:** VSCode, Git, IntelliJ, AndroidStudio 
 - **Design:** Figma
