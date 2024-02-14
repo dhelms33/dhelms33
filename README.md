@@ -4,13 +4,13 @@
 
 I'm a passionate and dedicated college student pursuing a degree in Computer Science, I graduate in May of 2024! 
 
-I specialize in frontend development and have a keen interest in creating user-friendly and visually appealing web applications. Currently, I'm contributing my skills as a frontend developer for SBJPPF, specifically working on frontend website development here: https://www.sbjcreativelearning.org/ .
+I specialize in frontend development and have a keen interest in creating user-friendly and visually appealing web applications. Currently, I'm contributing my skills as a frontend developer for SBJPPF where we develop the passions of future generations. Check us out here: https://www.sbjcreativelearning.org/ .
 
 ## 🛠️ Tech Stack
 
-- **Languages:** HTML, Python, JavaScript
+- **Languages:** HTML, Python, JavaScript, Kotlin
 - **Frameworks:** RubyonRails
-- **Tools:** VSCode, Git, IntelliJ
+- **Tools:** VSCode, Git, IntelliJ, AndroidStudio 
 - **Design:** Figma
 
 ## 🔧 My Projects
