@@ -1,4 +1,4 @@
-# Hi there, I'm dhelms33 👋
+# Hi there, I'm Dereck 👋
 
 ## 🚀 About Me
 
