@@ -29,7 +29,7 @@ I specialize in frontend development and have a keen interest in creating user-f
 
 - node.php!
 
-## 👯 Let's Connect!
+## 🔗 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/dereck-helms-211593186/)
 
