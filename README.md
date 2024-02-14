@@ -15,12 +15,12 @@ I specialize in frontend development and have a keen interest in creating user-f
 
 ## 🔧 My Projects
 
-### MSU Denver Bulletin Board
+### 📌MSU Denver Bulletin Board
 - Adding real time messaging to MSU Denver's Bulletin Board.
 - Technologies used: python, balena, docker.
 - Link: https://github.com/dhelms33/Anthias-MSU-Denver-Bulletin-Board-DH.
 
-### Football Legends
+### ⚽Football Legends
 - Attempting to create an application that fosters the love of soccer from find soccer fields to seeing real-time scores.
 - Technologies used: Kotlin.
 - Link: https://github.com/dhelms33/Football-Legends.
@@ -39,6 +39,6 @@ I specialize in frontend development and have a keen interest in creating user-f
 
 ## ⚡ Fun Fact
 
-Team Fortress 2 is my favorite video game!
+I have recently started playing chess in my free time♟️
 
 Thanks for checking out my GitHub profile! Feel free to explore my projects and connect with me. Happy coding! 🚀
