@@ -21,7 +21,7 @@ I currently work in frontend development and have a keen interest in creating us
 - Link: https://github.com/dhelms33/Anthias-MSU-Denver-Bulletin-Board-DH.
 
 ### ⚽Football Legends
-- An soccer/football application that fosters the love of soccer from finding soccer fields to seeing real-time scores.
+- A soccer/football application that fosters the love of soccer from finding soccer fields near you to seeing real-time scores.
 - Technologies used: Kotlin.
 - Link: https://github.com/dhelms33/Football-Legends.
 
