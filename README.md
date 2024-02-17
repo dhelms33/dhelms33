@@ -8,7 +8,7 @@ I currently work in frontend development and have a keen interest in creating us
 
 ## 🛠️ Tech Stack
 
-- **Languages:** HTML, Python, JavaScript, Kotlin, Ruby
+- **Languages:** HTML, Python, Java, Kotlin, Ruby
 - **Frameworks:** RubyonRails
 - **Tools:** VSCode, Git, IntelliJ, AndroidStudio 
 - **Design:** Figma
