@@ -16,7 +16,7 @@ I currently work in frontend development and have a keen interest in creating us
 ## 🔧 My Projects
 
 ### 📌MSU Denver Bulletin Board
-- Adding real time messaging to MSU Denver's Bulletin Board.
+- Adding real time messaging to our fork of Anthias which will result in MSU Denver's Bulletin Board.
 - Technologies used: python, balena, docker.
 - Link: https://github.com/dhelms33/Anthias-MSU-Denver-Bulletin-Board-DH.
 
