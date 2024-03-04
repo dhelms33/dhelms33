@@ -16,9 +16,9 @@ I currently work in frontend development and have a keen interest in creating us
 ## 🔧 My Projects
 
 ### 📌MSU Denver Bulletin Board
-- Adding real time messaging to our fork of Anthias which will result in MSU Denver's Bulletin Board.
+- Adding real time messaging to our Bulltein Board website which will result in MSU Denver's Bulletin Board displayed on campus.
 - Technologies used: python, balena, docker.
-- Link: https://github.com/dhelms33/Anthias-MSU-Denver-Bulletin-Board-DH.
+- Link: https://github.com/dhelms33/MSU-Denver-Bulletin-Board.github.io.
 
 ### ⚽Football Legends
 - A soccer/football application that fosters the love of soccer from finding soccer fields near you to seeing real-time scores.
