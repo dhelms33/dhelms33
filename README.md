@@ -42,4 +42,5 @@ I currently work in frontend development and have a keen interest in creating us
 I have recently started playing chess in my free time♟️
 
 Thanks for checking out my GitHub profile! Feel free to explore my projects and connect with me. 
+
 "The best way to predict your future is to create it."🚀
