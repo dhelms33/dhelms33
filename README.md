@@ -39,8 +39,10 @@ I currently work in frontend development and have a keen interest in creating us
 
 ## ⚡ Fun Fact
 
-I have recently started playing chess in my free time♟️
+I have recently started playing chess in my free time my favorite piece is the pawn♟️
+
+## 👋 Closing
 
 Thanks for checking out my GitHub profile! Feel free to explore my projects and connect with me. 
 
-"The best way to predict your future is to create it."🚀
+"**The best way to predict your future is to create it**."✨
