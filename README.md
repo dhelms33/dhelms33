@@ -35,7 +35,6 @@ I am also very interested in creating AI models which efficiently communicate tr
 - AI development models such as a Feed forward model or a Random Forest model
 - node.php!
 - **Jupyter Notebooks:** Proficient in creating and implementing machine learning models using Jupyter Notebooks.
-- 
 ## 🔗 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/dereck-helms-211593186/)
