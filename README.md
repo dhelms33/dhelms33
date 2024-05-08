@@ -11,7 +11,7 @@ I am also very interested in creating AI models which efficiently communicate tr
 ## 🛠️ Tech Stack
 
 - **Languages:** HTML, Python, Java, Kotlin, Ruby
-- **Frameworks:** RubyonRails
+- **Frameworks:** Django
 - **Tools:** VSCode, Git, IntelliJ, AndroidStudio 
 - **Design:** Figma
 
@@ -33,7 +33,8 @@ I am also very interested in creating AI models which efficiently communicate tr
 ## 🌱 I’m Currently Learning
 
 - AI development models such as a Feed forward model or a Random Forest model
-- node.php!
+- node.php
+- Ruby and RubyonRails
 - **Jupyter Notebooks:** Proficient in creating and implementing machine learning models using Jupyter Notebooks.
 ## 🔗 Let's Connect!
 
