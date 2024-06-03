@@ -4,9 +4,8 @@
 
 I'm a passionate and dedicated software developer pursuing a degree in Computer Science from MSU Denver, I graduate in May of 2024! 
 
-I currently work in frontend development and have a keen interest in creating user-friendly and visually appealing web applications and websites. Currently, I'm contributing my skills as a frontend developer for SBJPPF where we develop the passions of future generations. Check us out here: https://www.sbjcreativelearning.org/ .
-
-I am also very interested in creating AI models which efficiently communicate trends patterns in the given dataset to the user!
+I currently work in website design but have a keen interest in developing AI models in Python and thinking about how design principles can create more efficient AI models. 
+I'm contributing my skills as a website designer for The Shannon B. Jones Passion Pursuit Foundation where we develop the passions of future generations. Check us out here: https://www.sbjcreativelearning.org/ .
 
 ## 🛠️ Tech Stack
 
@@ -20,10 +19,10 @@ I am also very interested in creating AI models which efficiently communicate tr
 
 ## 🔧 My Projects
 
-### 📌 MSU Denver Bulletin Board
-- Adding real time messaging to our Bulltein Board website which will result in MSU Denver's Bulletin Board displayed on campus.
-- Technologies used: python, balena, docker.
-- Link: https://dhelms33.github.io/msudenver-bulletin-board.github.io/
+### 📌 NLP Healthcare Dataset Analysis
+- Here I have created a Feed-Forward model based off of a Kaggle Healthcare Dataset to analyze predicted healthcare charges vs actual charges
+- Technologies used: python, pytorch, numpy, pandas, Kaggle.
+- Link: https://github.com/dhelms33/CS39AA-Project_Part3
 
 ### ⚽Football Legends
 - A soccer/football application that fosters the love of soccer from finding soccer fields near you to seeing real-time scores.
