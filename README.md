@@ -9,7 +9,7 @@ I'm contributing my skills as a website designer for The Shannon B. Jones Passio
 
 ## 🛠️ Tech Stack
 
-- **Languages:** HTML, Python, Java, Kotlin, Ruby
+- **Languages:** HTML, Python, Java, Kotlin
 - **Frameworks:** Django
 - **Tools:** VSCode, Git, IntelliJ, AndroidStudio 
 - **Design:** Figma
@@ -37,7 +37,7 @@ I'm contributing my skills as a website designer for The Shannon B. Jones Passio
 ## 🌱 I’m Currently Learning
 
 - AI development models such as a Feed forward model or a Random Forest model
-- node.php
+- node.php, C++, and Ruby
 - Ruby and RubyonRails
 - **Jupyter Notebooks:** Proficient in creating and implementing machine learning models using Jupyter Notebooks.
 ## 🔗 Let's Connect!
