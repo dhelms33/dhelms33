@@ -29,6 +29,11 @@ I'm contributing my skills as a website designer for The Shannon B. Jones Passio
 - Technologies used: Kotlin.
 - Link: https://github.com/dhelms33/Football-Legends.
 
+### 📺MSU Denver Bulletin Board
+- A custom bulletin board, built as a senior experience project, that merges aspects of a SPA with a node.js webapp.
+- Technologies used: JavaScript, HTML, CSS
+- Link: https://github.com/MSU-Denver-Bulletin-Board
+
 ## 🌱 I’m Currently Learning
 
 - AI development models such as a Feed forward model or a Random Forest model
