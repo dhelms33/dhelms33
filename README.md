@@ -50,7 +50,7 @@ I'm contributing my skills as a website designer for The Shannon B. Jones Passio
 
 ## ⚡ Fun Fact
 
-I have recently started playing chess in my free time my favorite piece is the pawn♟️
+I love chess and solving chess.com's puzzles. Although I only recently got into chess, I currently hold a puzzle score of 1000♟️
 
 ## 👋 Closing
 
