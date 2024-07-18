@@ -50,7 +50,7 @@ I'm contributing my skills as a website designer for The Shannon B. Jones Passio
 
 ## ⚡ Fun Fact
 
-I love chess and solving chess.com's puzzles. Although I only recently got into chess, I currently hold a puzzle score of 1000♟️
+I love chess and solving chess.com's puzzles. Although I am still relatively new to chess, I have a puzzle score of 1000 on chess.com ♟️
 
 ## 👋 Closing
 
