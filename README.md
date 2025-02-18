@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate and dedicated software developer who recently graduated with a BS in Computer Science from MSU Denver.
+I'm a passionate and dedicated associate consultant aiming to become a software developer who graduated with a BS in Computer Science from MSU Denver.
 
 I currently work in website design but have a keen interest in developing AI models in Python and thinking about how design and SOLID principles can create more efficient AI models. 
 I'm contributing my skills as a website designer for The Shannon B. Jones Passion Pursuit Foundation where we develop the passions of future generations. Check us out here: https://www.sbjcreativelearning.org/ .
