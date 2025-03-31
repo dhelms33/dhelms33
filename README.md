@@ -2,14 +2,17 @@
 
 ## 🚀 About Me
 
-I'm a passionate and dedicated associate consultant aiming to become a software developer who graduated with a BS in Computer Science from MSU Denver.
+I'm a passionate and dedicated junior data engineer at Spectrum who graduated with a BS in Computer Science from MSU Denver.
 
-I currently work in website design but have a keen interest in developing AI models in Python and thinking about how design and SOLID principles can create more efficient AI models. 
-I'm contributing my skills as a website designer for The Shannon B. Jones Passion Pursuit Foundation where we develop the passions of future generations. Check us out here: https://www.sbjcreativelearning.org/ .
+I have a keen interest in developing AI models and thinking about how we can automate processes to create a better world.  
+
+I also love thinking about how to produce more efficient, reproducible code through SOLID principles. 
+
+I'm also contributing my skills as a website designer for The Shannon B. Jones Passion Pursuit Foundation where we develop the passions of future generations. Check us out here: https://www.sbjcreativelearning.org/ .
 
 ## 🛠️ Tech Stack
 
-- **Languages:** HTML, Python, Java, Kotlin
+- **Languages:** HTML, Python, Java, SQL Kotlin
 - **Frameworks:** Django
 - **Tools:** VSCode, Git, IntelliJ, AndroidStudio 
 - **Design:** Figma
