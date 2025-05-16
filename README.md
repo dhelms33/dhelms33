@@ -12,7 +12,7 @@ I'm also contributing my skills as a website designer for The Shannon B. Jones P
 
 ## 🛠️ Tech Stack
 
-- **Languages:** HTML, Python, Java, SQL Kotlin
+- **Languages:** HTML, Python, Java, SQL, Kotlin
 - **Frameworks:** Django
 - **Tools:** VSCode, Git, IntelliJ, AndroidStudio 
 - **Design:** Figma
