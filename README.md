@@ -4,7 +4,7 @@
 
 I'm a passionate and dedicated junior data engineer at Spectrum who graduated with a BS in Computer Science from MSU Denver.
 
-I have a keen interest in developing AI models and thinking about how we can automate processes to create a better world.  
+I have a keen interest in developing AI models, sharpening my python skills, and thinking about how we can automate processes to create a better world.  
 
 I also love thinking about how to produce more efficient, reproducible code through SOLID principles. 
 
