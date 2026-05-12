@@ -22,6 +22,11 @@ I'm also contributing my skills as a website designer for The Shannon B. Jones P
 
 ## 🔧 My Projects
 
+### 🌟 Shannon B. Jones Passion Pursuit Predicitve Model (Alpha)
+- Here I am creating many different models based off of The Shannon B. Jones Passion Pursuit Foundation's social media engagement data to predict interactions and views.
+- Technologies used: python, pytorch, numpy, pandas.
+- Link: 
+
 ### 📌 NLP Healthcare Dataset Analysis
 - Here I have created a Feed-Forward model based off of a Kaggle Healthcare Dataset to analyze predicted healthcare charges vs actual charges
 - Technologies used: python, pytorch, numpy, pandas, Kaggle.
