@@ -4,7 +4,7 @@
 
 I'm a passionate and dedicated junior data engineer and software developer who graduated with a BS in Computer Science from MSU Denver.
 
-I have a keen interest in developing AI models, sharpening my python skills, and thinking about how we can automate processes to create a better world while maintaining our humanity and importance as human programmers. 
+I have a keen interest in **ethically** developing AI models, sharpening my python skills, and thinking about how we can automate processes to create a better world while maintaining our  and importance as human programmers. 
 
 I also love thinking about how to produce more efficient, testable, and reproducible code through SOLID principles. 
 
