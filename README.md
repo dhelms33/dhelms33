@@ -27,7 +27,7 @@ I'm also contributing my skills as a website designer for The Shannon B. Jones P
 - Technologies used: python, pytorch, numpy, pandas.
 - Link: https://github.com/dhelms33/SBJPPF_Predictive_Dashboard
 
-### 📺Cloud Based Massive Multiplayer Online Game
+### 🎮Cloud Based Massive Multiplayer Online Game
 - I spearheaded efforts in archtecture and I am leading the singleton rearchitecture program.
 - Technologies used: Java, SQL, Springboot, Maven
 - Link: https://github.com/dhelms33/A-cloud-based-MMO-CS3250
