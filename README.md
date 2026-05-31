@@ -4,9 +4,9 @@
 
 I'm a passionate and dedicated junior data engineer and software developer who graduated with a BS in Computer Science from MSU Denver.
 
-I have a keen interest in developing AI models, sharpening my python skills, and thinking about how we can automate processes to create a better world.  
+I have a keen interest in developing AI models, sharpening my python skills, and thinking about how we can automate processes to create a better world while maintaining our humanity and importance as human programmers. 
 
-I also love thinking about how to produce more efficient, reproducible code through SOLID principles. 
+I also love thinking about how to produce more efficient, testable, and reproducible code through SOLID principles. 
 
 I'm also contributing my skills as a website designer for The Shannon B. Jones Passion Pursuit Foundation where we develop the passions of future generations. Check us out here: https://www.sbjcreativelearning.org/ .
 
@@ -26,6 +26,11 @@ I'm also contributing my skills as a website designer for The Shannon B. Jones P
 - Here I am creating many different models based off of The Shannon B. Jones Passion Pursuit Foundation's social media engagement data to predict interactions and views.
 - Technologies used: python, pytorch, numpy, pandas.
 - Link: https://github.com/dhelms33/SBJPPF_Predictive_Dashboard
+
+### 📺Cloud Based Massive Multiplayer Online Game
+- I spearheaded efforts in archtecture and I am leading the singleton rearchitecture program.
+- Technologies used: Java, SQL, Springboot, Maven
+- Link: https://github.com/dhelms33/A-cloud-based-MMO-CS3250
 
 ### 📌 NLP Healthcare Dataset Analysis
 - Here I have created a Feed-Forward model based off of a Kaggle Healthcare Dataset to analyze predicted healthcare charges vs actual charges
