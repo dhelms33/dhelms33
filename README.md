@@ -22,7 +22,7 @@ I'm also contributing my skills as a website designer for The Shannon B. Jones P
 
 ## 🔧 My Projects
 
-### 🌟 Shannon B. Jones Passion Pursuit Predicitve Model (Alpha)
+### 🌟 Shannon B. Jones Passion Pursuit Predicitve Model (Pre-Alpha)
 - Here I am creating many different models based off of The Shannon B. Jones Passion Pursuit Foundation's social media engagement data to predict interactions and views.
 - Technologies used: python, pytorch, numpy, pandas.
 - Link: https://github.com/dhelms33/SBJPPF_Predictive_Dashboard
