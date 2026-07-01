@@ -4,11 +4,11 @@
 
 I'm a passionate and dedicated junior data engineer and software developer who graduated with a BS in Computer Science from MSU Denver.
 
-I have a keen interest in **ethically** developing AI models, sharpening my python skills, and thinking about how we can automate processes to create a better world while maintaining our  and importance as human programmers. 
+I have a keen interest in **ethically** developing AI models, sharpening my python skills, and thinking about how we can automate processes to create a better world while maintaining our importance as humans. 
 
-I also love thinking about how to produce more efficient, testable, and reproducible code through SOLID principles. 
+I also love thinking about and producing more efficient, testable, and reproducible code through SOLID principles, OOP, and TDD-I think there isn't any shame in being basic ¯\_(ツ)_/¯
 
-I'm also contributing my skills as a website designer for The Shannon B. Jones Passion Pursuit Foundation where we develop the passions of future generations. Check us out here: https://www.sbjcreativelearning.org/ .
+I'm also contributing my skills as a website designer for The Shannon B. Jones Passion Pursuit Foundation where we develop and fund the passions of future generations. Check us out here: https://www.sbjcreativelearning.org/ .
 
 ## 🛠️ Tech Stack
 
@@ -63,7 +63,7 @@ I'm also contributing my skills as a website designer for The Shannon B. Jones P
 
 ## ⚡ Fun Fact
 
-I love chess and solving chess.com's puzzles. Although I am still relatively new to chess, I have a puzzle score of 1000 on chess.com ♟️
+I love chess♟️, yoga, and my favorite video game is Team Fortress 2.
 
 ## 👋 Closing
 
