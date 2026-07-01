@@ -6,7 +6,7 @@ I'm a passionate and dedicated junior data engineer and software developer who g
 
 I have a keen interest in **ethically** developing AI models, sharpening my python skills, and thinking about how we can automate processes to create a better world while maintaining our importance as humans. 
 
-I also love thinking about and producing more efficient, testable, and reproducible code through SOLID principles, OOP, and TDD-I think there isn't any shame in being basic ¯\_(ツ)_/¯
+I also love thinking about and producing more efficient, testable, and reproducible code through SOLID principles, OOP, and TDD-I think there isn't any shame in being basic   ¯\_(ツ)_/¯
 
 I'm also contributing my skills as a website designer for The Shannon B. Jones Passion Pursuit Foundation where we develop and fund the passions of future generations. Check us out here: https://www.sbjcreativelearning.org/ .
 
